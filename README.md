@@ -49,4 +49,5 @@ CI/CD流水线完善
 [全栈学习日记•序](https://blog.csdn.net/2402_89883046/article/details/157137442?sharetype=blogdetail&sharerId=157137442&sharerefer=PC&sharesource=2402_89883046&spm=1011.2480.3001.8118)<br>
 [全栈学习日记-HTML（1）](https://blog.csdn.net/2402_89883046/article/details/157145337?sharetype=blogdetail&sharerId=157145337&sharerefer=PC&sharesource=2402_89883046&spm=1011.2480.3001.8118)<br>
 [全栈学习日记-HTML（2）](https://blog.csdn.net/2402_89883046/article/details/157186496?sharetype=blogdetail&sharerId=157186496&sharerefer=PC&sharesource=2402_89883046&spm=1011.2480.3001.8118)<br>
-[全栈学习日记-css（1）](https://blog.csdn.net/2402_89883046/article/details/157224105?spm=1001.2014.3001.5501)
+[全栈学习日记-css（1）](https://blog.csdn.net/2402_89883046/article/details/157224105?spm=1001.2014.3001.5501)<br>
+[全栈学习日记-css（2）](https://blog.csdn.net/2402_89883046/article/details/157333439?sharetype=blogdetail&sharerId=157333439&sharerefer=PC&sharesource=2402_89883046&spm=1011.2480.3001.8118)
